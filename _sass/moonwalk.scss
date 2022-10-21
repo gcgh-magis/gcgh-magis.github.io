@@ -3,13 +3,37 @@
 
 html { height: 100%; }
 
+
+/* libre-baskerville-regular - latin */
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/libre-baskerville-v14-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('../fonts/libre-baskerville-v14-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/libre-baskerville-v14-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/libre-baskerville-v14-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/libre-baskerville-v14-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/libre-baskerville-v14-latin-regular.svg#LibreBaskerville') format('svg'); /* Legacy iOS */
+}
+
 body {
-  font-family:  "Inter", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
+  font-family: "Libre Baskerville";
   font-size: 1.0rem;
   line-height: 2;
   margin: 0;
   min-height: 100%;
 }
+
+/*body {
+  font-family:  "Inter", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
+  font-size: 1.0rem;
+  line-height: 2;
+  margin: 0;
+  min-height: 100%;
+} */
+
 pre, code {
   font-family: "Anonymous Pro", "Courier New", monospace;
   font-size: 0.9rem;
