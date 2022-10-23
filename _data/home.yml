@@ -11,11 +11,11 @@ navbar_entries:
 project_entries:
   - title: Webinaire - séance 1
     url: webinaire-seance1
-    desc: Construction de graphes géohistoriques: cas pratiques.
+    desc: 'Construction de graphes géohistoriques: cas pratiques.'
 
   - title: Webinaire - séance 2
     url: webinaire-seance2
-    desc: Détection automatique des propriétés temporelles des entités (géographiques).
+    desc: 'Détection automatique des propriétés temporelles des entités (géographiques).'
 
   - title: Project 3
     url: overview-post
