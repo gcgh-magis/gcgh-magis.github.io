@@ -7,7 +7,7 @@ author: Action de Recherche Graphes de connaissances géohistoriques
 
 Cette première séance est consacrée à deux cas pratiques de construction de graphes géohistoriques représentant l’évolution d'entités géographiques particulières: des parcelles et des bâtiments. 
 
-##Programme:
+## Programme:
 
 **Représentation en graphes pour la compréhension de l’évolution urbaine - *par John Samuel - CPE Lyon, LIRIS*.**
 
