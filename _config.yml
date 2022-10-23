@@ -1,16 +1,16 @@
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+title: Action de Recherche Graphes de connaissances géohistoriques
+author: AR Graphes des connaissances géohistoriques
+url: https://hueynemud.github.io/ar-gh-website/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  Cette action de recherche du [GDR CNRS MAGIS](https://gdr-magis.imag.fr/) s'intéresse à l'extraction, la structuration et l'exploitation d'informations sur des faits ou des observations enregistrés dans un passé plus ou moins lointain et de leurs relations spatio-temporelles, et stockés dans divers types de documents (cartes, textes, images, etc.). Notre objectif principal est de proposer un lieu d'échange pour l'ensemble des chercheurs qui travaillent sur la création et la publication de graphes géohistoriques pour étudier l'évolution du territoire sur le temps long, et qui viennent parfois de communautés scientifiques très diverses: histoire, géographie, géomatique, vision par ordinateur, ingénierie des connaissances, etc. Ceci passe notamment par l’organisation de webinaires, ateliers, groupes de travail, etc. permettant de dresser un état des lieux des travaux de construction de graphes géohistoriques et des sources, vocabulaires, approches, et outils mobilisés pour y parvenir.
 
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
-twitter:
-    username: abhinav # update or delete this
-    card: summary_large_image
+#twitter:
+#    username: abhinav # update or delete this
+#    card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
@@ -32,9 +32,9 @@ theme_config:
   show_reading_time: true # show number of words and reading time in the blog posts
   # options for "home" page
   home:
-    title_projects: Portfolio
+    title_projects: Activités
     title_misc_list: Details
-    title_blog: Blog
+    title_blog: Actualités
     title_old_projects: Old Projects
 
 soopr:
