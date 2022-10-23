@@ -9,15 +9,13 @@ navbar_entries:
     url: https://www.abhinav.co
 
 project_entries:
-  - title: Webinaire
+  - title: Webinaire - séance 1
     url: webinaire-seance1
     desc: Construction de graphes géohistoriques: cas pratiques.
-    highlight: Séance 1
 
-  - title: Webinaire
+  - title: Webinaire - séance 2
     url: webinaire-seance2
     desc: Détection automatique des propriétés temporelles des entités (géographiques).
-    highlight: Séance 2
 
   - title: Project 3
     url: overview-post
