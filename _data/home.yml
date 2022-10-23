@@ -17,41 +17,15 @@ project_entries:
     url: webinaire-séance-2
     desc: 'Détection automatique des propriétés temporelles des entités (géographiques).'
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: Webinaire - séance 3
+    url: webinaire-séance-3
+    desc: 'TBA'
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
-
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: Ancienne Action Prospectve - 2019-2021
+    url: https://hackmd.io/hPmvsQiGTw2_M1h4ewtGKQ?view
+    desc: 'Description du projet de l'action prospective du GdR MAGIS Graphes de connaissances géohistoriques de 2019 à 2021' 
+    #highlight: NEW
 
 footer_entries:
   - title: abhinav's homepage
