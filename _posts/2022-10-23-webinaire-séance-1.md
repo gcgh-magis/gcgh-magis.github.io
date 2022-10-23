@@ -9,7 +9,7 @@ Cette première séance est consacrée à deux cas pratiques de construction de 
 
 ## Programme:
 
-### Représentation en graphes pour la compréhension de l’évolution urbaine *par John Samuel - CPE Lyon, LIRIS*.
+### Représentation en graphes pour la compréhension de l’évolution urbaine - *par John Samuel - CPE Lyon, LIRIS*.
 
 **Résumé:**
 
