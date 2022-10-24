@@ -1,11 +1,11 @@
 navbar_entries:
-  - title: accueil
+  - title: Accueil
     url: https://gcgh-magis.github.io/
     
-  - title: à propos
+  - title: À propos
     url: about
 
-  - title: actualités
+  - title: Actualités
     url: blog
 
 project_entries:
