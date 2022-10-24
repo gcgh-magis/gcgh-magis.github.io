@@ -5,7 +5,9 @@ title: A propos
 
 **Mots-clés :** graphes de connaissances, Web de données, données géohistoriques, humanité numériques, liage de données, interopérabilité.
 
-**Porteurs:** [Nathalie Abadie](https://www.umr-lastig.fr/nathalie-abadie/) (LaSTIG, Univ. Eiffel, ENSG, IGN), [Bertrand Duménieu](http://crh.ehess.fr/index.php?5206) (CRH - EHESS)
+**Porteurs:** 
+- [Nathalie Abadie](https://www.umr-lastig.fr/nathalie-abadie/) (LaSTIG, Université Gustave Eiffel, ENSG, IGN)
+- [Bertrand Duménieu](http://crh.ehess.fr/index.php?5206) (CRH - EHESS)
 
 ## Contexte, problématique et enjeux
 
@@ -21,4 +23,9 @@ Pour tenter de dépasser ces limites, nous souhaitons développer un espace de t
 
 ## Contacts:
 
-emails et liste de diffusion
+**E-mail des porteurs:** nathalie-f.abadie[]ign.fr et bertrand.dumenieu[]ehess.fr
+
+**Liste de diffusion:** ap-gcgh-magis[]ehess.fr
+
+Pour s'inscrire, écrire à sympa[]ehess.fr
+Objet du mail : subscribe ap-gcgh-magis Prénom Nom
