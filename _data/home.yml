@@ -1,12 +1,12 @@
 navbar_entries:
-  - title: about
+  - title: accueil
+    url: https://gcgh-magis.github.io/
+    
+  - title: à propos
     url: about
 
-  - title: blog
+  - title: actualités
     url: blog
-
-  - title: website
-    url: https://www.abhinav.co
 
 project_entries:
   - title: Webinaire - séance 1
