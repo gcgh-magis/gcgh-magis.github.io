@@ -27,14 +27,11 @@ old_project_entries:
     desc: "Description du projet de l'action prospective du GdR MAGIS Graphes de connaissances géohistoriques de 2019 à 2021"
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: Site Web MAGIS
+    url: https://gdr-magis.imag.fr/
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/gcgh-magis
 
   - title: feed
     url: feed.xml
