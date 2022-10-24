@@ -3,8 +3,6 @@ layout: post
 author: Action de Recherche Graphes de connaissances géohistoriques
 ---
 
-# Présentation du projet de l'action de recherche aux Journées du GdR CNRS MAGIS
-
 **Date:** 21 et 22 mars 2022
 **Lieu:** Grenoble
 
