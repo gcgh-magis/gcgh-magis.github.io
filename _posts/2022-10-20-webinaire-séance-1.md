@@ -30,3 +30,5 @@ Il existe de multiples normes pour représenter les informations urbaines multid
 3. UrbanCo2Fab: Comprehension Of Concurrent Viewpoints Of Urban Fabric Based On GIT, John Samuel, Sylvie Servigne, Gilles Gesquière, ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume IV-4/W6, 2018, 13th 3D GeoInfo Conference, le 1-2 octobre 2018, Delft, Hollande
 
 ### Modélisation de l’évolution de territoires via un graphe spatio-temporel - *par Aurélie Leborgne - Université de Strasbourg, ICube*.
+
+**Site Web personnel :** [https://aurelieleborgne.github.io/webpage/](https://aurelieleborgne.github.io/webpage/)
