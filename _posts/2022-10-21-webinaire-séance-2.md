@@ -9,7 +9,7 @@ Cette deuxième séance est consacrée à deux travaux portant sur l'identificat
 
 ## Programme:
 
-### Génération et propagation de méta-faits temporels Propagation dans les graphes de connaissances - *par Fatiha Saïs - Laboratoire Interdisciplinaire pour les Sciences du Numérique, Université Paris Saclay*.
+### Génération et propagation de méta-faits temporels dans les graphes de connaissances - *par Fatiha Saïs - Laboratoire Interdisciplinaire pour les Sciences du Numérique, Université Paris Saclay*.
 
 Site Web professionnel: https://www.lri.fr/~sais/index.html[](https://www.lri.fr/~sais/index.html)
 
