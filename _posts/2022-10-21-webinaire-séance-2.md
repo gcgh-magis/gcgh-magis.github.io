@@ -11,6 +11,6 @@ Cette deuxième séance est consacrée à deux travaux portant sur l'identificat
 
 ### Génération et propagation de méta-faits temporels dans les graphes de connaissances - *par Fatiha Saïs - Laboratoire Interdisciplinaire pour les Sciences du Numérique, Université Paris Saclay*.
 
-Site Web professionnel: https://www.lri.fr/~sais/index.html[](https://www.lri.fr/~sais/index.html)
+Site Web professionnel: [https://www.lri.fr/~sais/index.html](https://www.lri.fr/~sais/index.html)
 
 ### Identification automatique et analyse de relations spatio-temporelles dans des séries de données extraites d'annuaires du commerce parisien du 19ème siècle: application aux photographes - *par Solenn Tual - LASTIG, Univ. Gustave Eiffel, IGN-ENSG*.
