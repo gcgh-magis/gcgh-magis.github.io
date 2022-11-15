@@ -12,36 +12,52 @@ ul.horizontal-list {
 
   li a {
     text-decoration: none;
-    font-weight: normal
+    font-weight: normal;
   }
 
 }
 
 .card {
   padding: 1em;
-  border: 1px var(--text) solid;
-  width: 11em;
+  // border: 1px var(--highlight) dashed;
+  width: 21em;
+  min-height: 10em;
   height: auto;
   text-align: center;
-  font-size: 1em;
+  font-size: 1.1em;
   align-items: center;
-  background-color: var(--bg-secondary);
-  margin-bottom: 0.8em;
-  border-radius: 0.8em;
-
-  .header {
-    color: var(--links);
-  }
+  margin: 0.6em;
+  // border-radius: 0.3em;
+  // -webkit-box-shadow: 5px 5px 7px 1px #aaa; 
+  // box-shadow: 5px 5px 7px 1px #aaa;
+  box-shadow: 0 0 0 1px black, 0 0 0 3px var(--bg), 0 0 0 6px black, 0 0 0 6px black;
 
   .body {
-    font-size: 0.8em;
+    font-size: 1em;
   }
 
   hr {
     margin: 0.5em 0;
   }
+  
+  .header {
+    @include title-font;
+    font-size: 1.2em;
+  }
 
+
+  &:hover {
+    background-color: var(--bg-secondary);
+    
+    .header, hr, p {
+      color: var(--highlight);
+    }
+  }
+  
 }
+
+
+
 
 /* Responsive cards - one column layout on small screens */
 @media screen and (max-width: 600px) {
@@ -53,5 +69,12 @@ ul.horizontal-list {
     a, .header {
       font-size: 1em;
     }
+  }
+}
+
+
+header, footer {
+  >:not(p) { // Don't display the site description in title font
+    @include title-font;
   }
 }

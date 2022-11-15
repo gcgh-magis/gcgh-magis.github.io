@@ -2,11 +2,15 @@
 layout: default
 ---
 
-<header>
-{% if site.theme_config.show_navbar == true %}
-  {% include horizontal_list.html collection=site.data.home.navbar_entries %}
-  <div class="dashed"></div>
-{% endif %}
+<header> 
+  {% if site.theme_config.show_logos == true %}
+    {% include logo.html %}
+  {% endif %}
+
+  {% if site.theme_config.show_navbar == true %}
+    {% include horizontal_list.html collection=site.data.home.navbar_entries %}
+    <div class="dashed"></div>
+  {% endif %}
 
   <h1>{{ site.title }}</h1>
   {% if site.theme_config.show_description == true %}

@@ -2,11 +2,14 @@ title: Graphes de connaissances géohistoriques
 author: AR Graphes des connaissances géohistoriques
 url: https://gcgh-magis.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  <img src="./images/2021-02_Logo-GDR_MAGIS2.png" alt="Logo GdR CNRS MAGIS" width="250" height="75" align="left"> <br><br><br> Cette action de recherche du <a href="https://gdr-magis.imag.fr/">GdR CNRS MAGIS</a> s'intéresse à l'extraction, la structuration et l'exploitation d'informations sur des faits ou des observations enregistrés dans un passé plus ou moins lointain et de leurs relations spatio-temporelles, et stockés dans divers types de documents (cartes, textes, images, etc.). Notre objectif principal est de proposer un lieu d'échange pour l'ensemble des chercheurs qui travaillent sur la création et la publication de graphes géohistoriques pour étudier l'évolution du territoire sur le temps long, et qui viennent parfois de communautés scientifiques très diverses: histoire, géographie, géomatique, vision par ordinateur, ingénierie des connaissances, etc.
-
+  Cette action de recherche du <mark><a href="https://gdr-magis.imag.fr/">GDR CNRS MAGIS</a></mark> s'intéresse à l'extraction, la structuration et l'exploitation d'informations sur des faits ou des observations enregistrés dans un passé plus ou moins lointain et de leurs relations spatio-temporelles, et stockés dans divers types de documents (cartes, textes, images, etc.). Notre objectif principal est de proposer un lieu d'échange pour l'ensemble des chercheurs qui travaillent sur la création et la publication de graphes géohistoriques pour étudier l'évolution du territoire sur le temps long, et qui viennent parfois de communautés scientifiques très diverses: histoire, géographie, géomatique, vision par ordinateur, ingénierie des connaissances, etc.
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
+
+sitelogo:
+  alt: GDR CNRS MAGIS
+  target: gdr-magis.imag.fr
 
 #twitter:
 #    username: abhinav # update or delete this
@@ -18,8 +21,9 @@ remote_theme: abhinavs/moonwalk
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
   appearance_toggle: true # if appearance can be switched by user
-  back_home_text: "accueil.." # customize text for homepage link in post layout
+  back_home_text: "< Accueil.." # customize text for homepage link in post layout
   date_format: "%d-%m-%Y" # customize how date is formatted
+  show_logos: true # show logos
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar
   show_footer: true # show footer links in home page,add in _data/home.yml

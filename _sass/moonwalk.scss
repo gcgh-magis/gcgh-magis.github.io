@@ -3,36 +3,30 @@
 
 html { height: 100%; }
 
-
-/* libre-baskerville-regular - latin */
 @font-face {
-  font-family: 'Libre Baskerville';
+  font-family: 'Sono';
   font-style: normal;
-  font-weight: 400;
-  src: url('../fonts/libre-baskerville-v14-latin-regular.eot'); /* IE9 Compat Modes */
-  src: local(''),
-       url('../fonts/libre-baskerville-v14-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/libre-baskerville-v14-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/libre-baskerville-v14-latin-regular.woff') format('woff'), /* Modern Browsers */
-       url('../fonts/libre-baskerville-v14-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/libre-baskerville-v14-latin-regular.svg#LibreBaskerville') format('svg'); /* Legacy iOS */
+  font-variation-settings: "wght" 400;
+  src: url('../fonts/sono.ttf');
+}
+
+@mixin title-font {
+  font-family: 'Sono';
+  font-variation-settings: "wght" 700;
+}
+
+@mixin text-font {
+  font-family: 'Sono';
 }
 
 body {
-  font-family: "Libre Baskerville";
-  font-size: 1.0rem;
+  @include text-font;
+  font-size: 0.8rem;
   line-height: 2;
   margin: 0;
   min-height: 100%;
 }
 
-/*body {
-  font-family:  "Inter", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
-  font-size: 1.0rem;
-  line-height: 2;
-  margin: 0;
-  min-height: 100%;
-} */
 
 pre, code {
   font-family: "Anonymous Pro", "Courier New", monospace;
@@ -87,27 +81,32 @@ img {
   display: block;
   margin: 0 auto;
 }
+
 html {
     --bg: #FFF;
-    --bg-secondary: #f8f8f8;
+    --bg-secondary: #DC3535;
     --headings: #000;
-    --text: #333;
-    --links: blue;
-    --highlight: #FFECB2; // light yellow
+    --text: #000;
+    --links: #DC3535;
+    --highlight: #FFE15D; // bright yellow
     --code-text: #9D174D;
     --share-text: #999;
+    --logo: url(/images/logo-light.png) no-repeat;
 }
+
 // -------------- THEME SWITCHER -------------- //
+//https://colorhunt.co/palette/541690ff4949ff8d29ffcd38
 @mixin dark-appearance {
   html, body  {
-      --headings: #74c0fc;
-      --links: #91A7FF;
-      --highlight: #41C7C7;
+      --headings: #FFCD38;
+      --links: #FFCD38;
+      --highlight: #050031;
       --bg: #1f242A;
-      --bg-secondary: #323945;
+      --bg-secondary: #92B4EC;
       --text: #adb5bd;
-      --code-text: #91A7FF;
+      --code-text: #92B4EC;
       --share-text: #C4C4C4;
+      --logo: url(/images/logo-dark.png) no-repeat;
   };
 }
 html[data-theme="dark"] { @include dark-appearance; }
@@ -123,6 +122,8 @@ html, body {
 }
 h1, h2, h3, h4, h5, h6 {
     color: var(--headings);
+    @include title-font;
+    font-family: var(--title-ff);
 }
 p, strong, b, em, small, li, hr, table, figcaption {
     color: var(--text);
@@ -136,6 +137,7 @@ blockquote {
 }
 a {
   color: var(--links);
+  text-decoration: none;
 }
 *:target { background-color: var(--bg-secondary); }
 
@@ -221,4 +223,21 @@ p code, li code {
   a:hover {
     color: var(--links);
   }
+}
+
+.banner {
+  display: flex;
+  justify-content: right;
+
+  .logo {
+    background: var(--logo) no-repeat;
+    background-size: 15em;
+    min-width: 15em;
+    min-height: 6em;
+  }
+}
+
+mark {
+  background-color: var(--highlight);
+  font-size: 0.8rem;
 }
