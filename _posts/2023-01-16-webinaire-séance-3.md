@@ -3,7 +3,7 @@ layout: post
 author: Action de Recherche Graphes de connaissances géohistoriques
 ---
 
-**Date:** jeudi 9 février 2022, de 12h30 à 14h00. 
+**Date:** jeudi 9 février 2022, de 12h30 à 13h30. 
 
 Cette troisième séance est consacrée à l'identification automatique et la représentation de propriétés temporelles dans des graphes de connaissances (géohistoriques).
 
