@@ -11,7 +11,7 @@ navbar_entries:
 project_entries:
   - title: Webinaire - séance 1
     url: webinaire-séance-1
-    desc: 'Construction de graphes géohistoriques: cas pratiques.'
+    desc: 'Construction de graphes géohistoriques: bâtiments et parcelles agricoles.'
 
   - title: Webinaire - séance 2
     url: webinaire-séance-2
@@ -20,6 +20,18 @@ project_entries:
   - title: Webinaire - séance 3
     url: webinaire-séance-3
     desc: 'Détection automatique des propriétés temporelles des entités (géographiques): suite.'
+
+  - title: Webinaire - séance 4
+    url: webinaire-séance-4
+    desc: 'Construction de graphes géohistoriques: paroisses.'
+
+  - title: Webinaire - séance 5
+    url: webinaire-séance-5
+    desc: 'Construction de graphes géohistoriques: établissements de l'ESR.'
+
+  - title: Webinaire - séance 6
+    url: webinaire-séance-6
+    desc: 'Construction de graphes géohistoriques: unités administratives.'
 
 old_project_entries:
   - title: 'Ancienne Action Prospective'
