@@ -25,6 +25,10 @@ project_entries:
     url: webinaire-séance-4
     desc: 'Construction de graphes géohistoriques: paroisses.'
 
+  - title: Webinaire - séance 5
+    url: webinaire-séance-5
+    desc: 'Construction de graphes géohistoriques: établissements de l'ESR.'
+
 old_project_entries:
   - title: 'Ancienne Action Prospective'
     url: 'https://hackmd.io/hPmvsQiGTw2_M1h4ewtGKQ?view'
