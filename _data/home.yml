@@ -29,6 +29,10 @@ project_entries:
     url: webinaire-séance-5
     desc: 'Construction de graphes géohistoriques: établissements ESR.'
 
+  - title: Webinaire - séance 6
+    url: webinaire-séance-6
+    desc: 'Construction de graphes géohistoriques: unités administratives.'
+
 old_project_entries:
   - title: 'Ancienne Action Prospective'
     url: 'https://hackmd.io/hPmvsQiGTw2_M1h4ewtGKQ?view'
