@@ -9,7 +9,7 @@ favicon: "./logo.png" # relative path to site's favicon
 
 sitelogo:
   alt: GDR CNRS MAGIS
-  target: gdr-magis.imag.fr
+  target: https://gdr-magis.cnrs.fr/
 
 #twitter:
 #    username: abhinav # update or delete this
