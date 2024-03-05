@@ -32,3 +32,7 @@ Il existe de multiples normes pour représenter les informations urbaines multid
 ### Modélisation de l’évolution de territoires via un graphe spatio-temporel - *par Aurélie Leborgne - Université de Strasbourg, ICube*.
 
 **Site Web personnel :** [https://aurelieleborgne.github.io/webpage/](https://aurelieleborgne.github.io/webpage/)
+
+## Séance suivante :
+
+[Programme de la séance 2 du webinaire](https://gcgh-magis.github.io/webinaire-séance-2).
