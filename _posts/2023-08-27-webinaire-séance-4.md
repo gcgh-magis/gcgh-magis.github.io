@@ -14,3 +14,7 @@ Cette séance est consacrée à la création de graphe de connaissances géohist
 **Résumé :** Dans le cadre du projet [ANR Obardi](https://obardi.hypotheses.org/), nous nous intéressons à la représentation des territoires sous l'Ancien Régime afin de permettre l'analyse des relations de pouvoir sur cette période par des historiens. Ce type de représentation est complexe pour différentes raisons. Les relations hiérarchiques entre les territoires dépendent de différentes dimensions (administrative, religieuse, militaire …). La représentation de la géométrie est également problématique, car elle est souvent absente ou imprécise pour les territoires considérés. Cette présentation décrira l'ontologie et les graphes de connaissances que nous avons proposés pour prendre en compte ces caractéristiques.
 
 **Page Web professionnelle:** [https://www.irit.fr/~Nathalie.Hernandez/](https://www.irit.fr/~Nathalie.Hernandez/)
+
+## Séance suivante :
+
+[Programme de la séance 5 du webinaire](https://gcgh-magis.github.io/webinaire-séance-5).
