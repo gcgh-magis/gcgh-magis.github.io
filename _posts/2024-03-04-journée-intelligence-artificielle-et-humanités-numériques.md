@@ -1,6 +1,6 @@
 ---
 layout: post
-author: 
+author: Action de Recherche Graphes de connaissances géohistoriques
 tags: [séminaire, madics, magis, afia]
 ---
 
