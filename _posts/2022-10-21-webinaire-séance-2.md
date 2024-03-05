@@ -18,3 +18,7 @@ Le projet ANR [SoDUCo](https://soduco.github.io/) vise à produire des données 
 Cette présentation se concentre sur la seconde étape qui vise à créer automatiquement des liens entre les entrées d’annuaires qui évoquent un même commerce ou une même personne. Deux méthodes, logique et numérique, ont été combinées et aboutissent à la création d’un graphe spatio-temporel. Ce travail, réalisé pour un cas d’étude traitant des photographes parisiens, permet de visualiser l’évolution de la profession à l’échelle globale et de suivre, à l’échelle individuelle, les installations, successions et déménagements de ces commerces au cours du XIXème siècle.
 
 **Page Web professionnelle:** [https://www.umr-lastig.fr/solenn-tual/](https://www.umr-lastig.fr/solenn-tual/)
+
+## Séance suivante :
+
+[Programme de la séance 3 du webinaire](https://gcgh-magis.github.io/webinaire-séance-3).
