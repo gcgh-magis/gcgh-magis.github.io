@@ -32,11 +32,77 @@ Nous encourageons les propositions de communications sur des travaux, originaux 
 
 ### Dates importantes:
 
-**Date limite pour l'envoi des résumés:** 1er avril 2024
+**Date limite pour l'envoi des résumés:** ~~1er avril 2024~~
 
-**Réponse aux auteurs:** 8 avril 2024
+**Réponse aux auteurs:** ~~8 avril 2024~~
 
 **Date de la journée:** 3 mai 2024
 
 ### Lieu:
 Bibliothèque nationale de France, [Site François Mitterrand](https://www.bnf.fr/fr/francois-mitterrand) (salle 70, à coté du Petit Auditorium), Quai François Mauriac, 75006 Paris.
+
+### Inscription:
+L'inscription à la journée est gratuite, mais le nombre de places est limité. Merci de bien vouloir vous inscrire via le formulaire suivant: (à venir)
+L'inscription est également requise pour assister à la journée à distance: le lien de connexion vous sera envoyé à l'adresse email indiquée lors de votre inscription.
+
+## Programme prévisionnel
+
+**9:00 - 9:15: Accueil - Café**
+
+**9:15 - 9:30: Introduction de la journée**
+
+Mots d’introduction par le Datalab et l'AFIA. Présentation des GdR CNRS MAGIS et MADICS.
+
+**9:30 - 10:45: Session 1 - Systèmes de recommandation pour l’analyse de grands corpus textuels**
+
+Intervenant.e à préciser (BnF), Utilisation de l'IA sur les fonds de la BnF.
+
+Tim Faverjon et Pedro Ramaciotti (Médialab, Sciences Po Paris), La politique dans la machine: identifier, mesurer et limiter l’information politique apprise par les algorithmes.
+
+Stéphane Pouyllau (Huma-Num CNRS UAR 3598), ISIDORE 2030 : refactorisation d’un moteur de recherche à l’ère des IA de traitement et des IA génératives.
+
+
+**Pause**
+
+
+**11:00 - 12:35: Session 2 - Graphes de connaissances pour les humanités numériques**
+
+Francesco Beretta (LARHRA UMR CNRS 5190), Semantic Data for Humanities and Social Sciences (SDHSS), OntoME, Geovistory : données de la recherche interopérables et réutilisables grâce aux graphes sémantiques.
+
+Arnaud Soulet (LIFAT, Université de Tours), Vers l'analyse à la demande des connaissances de Wikidata.
+
+Camille Bernard (LIG, Steamer, Univerité Grenoble Alpes), Graphes de connaissances pour la représentation et la compréhension des évolutions des territoires.
+
+Prunelle Daudré-Treuil, Mathieu d'Aquin, Olivier Bruneau, Jean Liber, Emmanuel Nauer, Laurent Rollet (équipe K, LORIA), Exploitation et appréhension de la correspondance d’Henri Poincaré.
+
+
+**12:35 - 14:00 : Déjeuner libre**
+
+
+**14:00 - 15:15 : Session 3 - Numérisation, transcription et analyse de documents textuels**
+
+Ariane Pinche (CNRS, CIHAM, UMR 4856), CATMuS-Medieval : Créer un jeu de données multilingue pour un modèle générique de reconnaissance Automatique de texte
+
+Christopher Kermovant (Teklia), Structuration, reconnaissance d’écriture et extraction d’entités dans les documents manuscrits avec Arkindex.
+
+Alain Bouju (L3i, Université de La Rochelle), Projet DAI-CRéTDHI. Des données à l’exploitation en démographie historique.
+
+
+**Pause**
+
+
+**15:30 - 16:45: Session 4 - Modèles d’IA pour l’analyse de sources**
+
+Rémi Petitpierre (Digital Humanities Institute, EPFL), Des cartes au modèle 4D. Des sources pour catalyser la reconstruction historique des villes.
+
+Julien Velcin ( Université de Lyon, Lyon 2, ERIC UR 308), Retour d'expérience sur des collaborations pluridisciplinaires entre Informatique et SHS.
+
+Ljudmila Petkovic (Sorbonne Université, équipe-projet ObTIC), Mesurer l’influence de Charcot sur ses contemporains à l’aide de l’extraction des mots-clés.
+
+
+**Pause**
+
+
+**17:00 - 18:00: Table ronde - Défis ouverts en IA pour les humanités numériques**
+
+Intervenants: Stéphane Lamassé (LaMOP, UMR 8589, CNRS – université Paris 1 Panthéon-Sorbonne), Cédric du Mouza (Cédric, CNAM), Mathieu d’Aquin (équipe K, LORIA), Stéphane Pouyllau (Huma-Num CNRS UAR 3598), Nicolas Sauger (Centre de Données Socio-Politiques, Sciences Po Paris), Christopher Kermovant (Teklia)
