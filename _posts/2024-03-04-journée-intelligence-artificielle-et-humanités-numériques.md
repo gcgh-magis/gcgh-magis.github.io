@@ -68,7 +68,7 @@ Stéphane Pouyllau (Huma-Num CNRS UAR 3598), ISIDORE 2030 : refactorisation d’
 
 **11:00 - 12:35: Session 2 - Graphes de connaissances pour les humanités numériques**
 
-Francesco Beretta (LARHRA UMR CNRS 5190), Semantic Data for Humanities and Social Sciences (SDHSS), OntoME, Geovistory : données de la recherche interopérables et réutilisables grâce aux graphes sémantiques.
+Francesco Beretta (LARHRA UMR CNRS 5190), Une ontologie des lieux géographiques et de leur évolution spatio-temporelle dans le contexte de l'écosystème d'extensions du CIDOC CRM pour les sciences humaines et sociales: le projet SDHSS.
 
 Arnaud Soulet (LIFAT, Université de Tours), Vers l'analyse à la demande des connaissances de Wikidata.
 
