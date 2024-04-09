@@ -43,6 +43,7 @@ Bibliothèque nationale de France, [Site François Mitterrand](https://www.bnf.f
 
 ### Inscription:
 L'inscription à la journée est gratuite, mais le nombre de places est limité. Merci de bien vouloir vous inscrire via le formulaire suivant: (à venir)
+
 L'inscription est également requise pour assister à la journée à distance: le lien de connexion vous sera envoyé à l'adresse email indiquée lors de votre inscription.
 
 ## Programme prévisionnel
