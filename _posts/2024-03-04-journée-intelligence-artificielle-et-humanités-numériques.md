@@ -42,7 +42,7 @@ Nous encourageons les propositions de communications sur des travaux, originaux 
 Bibliothèque nationale de France, [Site François Mitterrand](https://www.bnf.fr/fr/francois-mitterrand) (salle 70, à coté du Petit Auditorium), Quai François Mauriac, 75006 Paris.
 
 ### Inscription:
-L'inscription à la journée est gratuite, mais le nombre de places est limité. Merci de bien vouloir vous inscrire via le formulaire suivant: (à venir)
+L'inscription à la journée est gratuite, mais le nombre de places est limité. Merci de bien vouloir vous inscrire via le formulaire suivant: [https://afia.asso.fr/les-journees-communes/humanite-numerique-et-ia/﻿](https://afia.asso.fr/les-journees-communes/humanite-numerique-et-ia/﻿)
 
 L'inscription est également requise pour assister à la journée à distance: le lien de connexion vous sera envoyé à l'adresse email indiquée lors de votre inscription.
 
