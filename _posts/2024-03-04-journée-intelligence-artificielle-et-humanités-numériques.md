@@ -50,13 +50,15 @@ L'inscription est également requise pour assister à la journée à distance: l
 
 **9:00 - 9:15: Accueil - Café**
 
-**9:15 - 9:30: Introduction de la journée**
+**9:15 - 9:55: Introduction de la journée**
 
-Mots d’introduction par le Datalab et l'AFIA. Présentation des GdR CNRS MAGIS et MADICS.
+Fatiha SAIS (AFIA), Nathalie HERNANDEZ (MADICS) et par Nathalie ABADIE (MAGIS), Mots d'accueil de l'AFIA et des GdR .
 
-**9:30 - 10:45: Session 1 - Systèmes de recommandation pour l’analyse de grands corpus textuels**
+Tiphaine Vacqué (adjointe à la directrice des services et des réseaux et responsable de la Cellule IA de la BnF), La feuille de route et les projets IA de la BnF.
 
-Intervenant.e à préciser (BnF), Utilisation de l'IA sur les fonds de la BnF.
+Marie Carlin (Datalab, BnF), Le DataLab comme lieu d'expérimentations et d'accueil des chercheurs qui souhaitent faire des traitements IA sur les collections de la BnF.
+
+**9:55 - 10:45: Session 1 - Systèmes de recommandation pour l’analyse de grands corpus textuels**
 
 Tim Faverjon et Pedro Ramaciotti (Médialab, Sciences Po Paris), La politique dans la machine: identifier, mesurer et limiter l’information politique apprise par les algorithmes.
 
