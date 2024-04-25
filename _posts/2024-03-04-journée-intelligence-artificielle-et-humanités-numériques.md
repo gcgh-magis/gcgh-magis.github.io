@@ -44,6 +44,8 @@ Bibliothèque nationale de France, [Site François Mitterrand](https://www.bnf.f
 ### Inscription:
 L'inscription à la journée est gratuite, mais le nombre de places est limité. Merci de bien vouloir vous inscrire via le formulaire suivant: [https://afia.asso.fr/les-journees-communes/humanite-numerique-et-ia/](https://afia.asso.fr/les-journees-communes/humanite-numerique-et-ia/)
 
+Pour les membres de MAGIS, contacter les responsables de l'AR pour obtenir le code permettant de s'inscrire sans adhésion AFIA.
+
 L'inscription est également requise pour assister à la journée à distance: le lien de connexion vous sera envoyé à l'adresse email indiquée lors de votre inscription.
 
 ## Programme prévisionnel
