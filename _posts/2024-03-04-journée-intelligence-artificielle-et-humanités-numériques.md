@@ -110,4 +110,4 @@ Ljudmila Petkovic (Sorbonne Université, équipe-projet ObTIC), Mesurer l’infl
 
 **17:00 - 18:00: Table ronde - Défis ouverts en IA pour les humanités numériques**
 
-Intervenants: Stéphane Lamassé (LaMOP, UMR 8589, CNRS – université Paris 1 Panthéon-Sorbonne), Mathieu d’Aquin (équipe K, LORIA), Stéphane Pouyllau (Huma-Num CNRS UAR 3598), Nicolas Sauger (Centre de Données Socio-Politiques, Sciences Po Paris), Christopher Kermovant (Teklia)
+Intervenants: Stéphane Lamassé (LaMOP, UMR 8589, CNRS – université Paris 1 Panthéon-Sorbonne), Mathieu d’Aquin (équipe K, LORIA), Stéphane Pouyllau (Huma-Num CNRS UAR 3598), Nicolas Sauger (IR* Progedo), Christopher Kermovant (Teklia)
