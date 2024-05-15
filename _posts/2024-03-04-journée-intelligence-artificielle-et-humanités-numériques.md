@@ -58,7 +58,7 @@ Fatiha SAIS (AFIA), Nathalie HERNANDEZ (MADICS) et par Nathalie ABADIE (MAGIS), 
 
 Tiphaine Vacqué (adjointe à la directrice des services et des réseaux et responsable de la Cellule IA de la BnF), La feuille de route et les projets IA de la BnF.
 
-Marie Carlin (Datalab, BnF), Le DataLab comme lieu d'expérimentations et d'accueil des chercheurs qui souhaitent faire des traitements IA sur les collections de la BnF.
+Catherine Eloi (Datalab, BnF), Le DataLab comme lieu d'expérimentations et d'accueil des chercheurs qui souhaitent faire des traitements IA sur les collections de la BnF.
 
 **9:55 - 10:45: Session 1 - Systèmes de recommandation pour l’analyse de grands corpus textuels**
 
@@ -111,3 +111,9 @@ Ljudmila Petkovic (Sorbonne Université, équipe-projet ObTIC), Mesurer l’infl
 **17:00 - 18:00: Table ronde - Défis ouverts en IA pour les humanités numériques**
 
 Intervenants: Stéphane Lamassé (LaMOP, UMR 8589, CNRS – université Paris 1 Panthéon-Sorbonne), Mathieu d’Aquin (équipe K, LORIA), Stéphane Pouyllau (Huma-Num CNRS UAR 3598), Nicolas Sauger (IR* Progedo), Christopher Kermovant (Teklia)
+
+
+## Ressources
+
+Les supports des présentations et les illustrations réalisées par [Adèle Huguet](https://adelehuguet.wordpress.com/) au cours de la journée sont accessibles sur le [site Web de l'AFIA](https://afia.asso.fr/les-journees-communes/humanite-numerique-et-ia/).
+
