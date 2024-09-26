@@ -9,7 +9,7 @@ Cette séance est consacrée la génération augmentée de récupération (Retri
 
 ## Programme:
 
-### La RAG : avantages par rapport au fine-tuning et utilisation sur les graphes de connaissances - *par Marion Schaeffer - Doctorante en Traitement Automatique du Langage Naturel, Institut National des Sciences Appliquées de Rouen, LITIS & WIKIT.
+### La RAG : avantages par rapport au fine-tuning et utilisation sur les graphes de connaissances - *par Marion Schaeffer - Doctorante en Traitement Automatique du Langage Naturel, Institut National des Sciences Appliquées de Rouen, LITIS & WIKIT.*
 
 **Résumé :**
 La génération augmentée de récupération (Retrieval Augmented Generation, RAG) s’impose aujourd’hui comme une technique largement exploitée pour utiliser des grands modèles de langage (Large Language Model, LLM). Dans nos travaux, nous comparons la RAG au fine-tuning. Nous évaluons ces techniques pour deux cas d’usage différents avec des métriques automatiques et la préférence humaine. Nous nous interrogeons également sur l’utilisation de la RAG sur les graphes de connaissances afin d’exploiter le caractère structuré de ce format de données et de limiter la taille du LLM utilisé.
