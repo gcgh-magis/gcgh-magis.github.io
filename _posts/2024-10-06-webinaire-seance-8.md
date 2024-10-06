@@ -12,7 +12,7 @@ Cette séance est consacrée à l'utilisation de grands modèles de langues (Lar
 ### Étude de l’utilisation des modèles de langages pour l’interrogation en langue naturelle des graphes de connaissances - *par Alexandra Padonou, Peggy Cellier et Sébastien Ferré. Univ Rennes, INSA, CNRS, Inria, IRISA - UMR 6074.*
 
 **Résumé :**
-Dans cet article, nous présentons les résultats d’une étude approfondie des performances des grands modèles de langage (LLM) dans le contexte de l’interrogation des graphes de connaissances en langue naturelle (KGQA).
+Nous présentons les résultats d’une étude approfondie des performances des grands modèles de langage (LLM) dans le contexte de l’interrogation des graphes de connaissances en langue naturelle (KGQA).
 La méthodologie de l’expérimentation a été structurée en deux approches distinctes : la génération de requêtes SPARQL et l’interrogation directe. Les résultats sur le benchmark QALD-10 ont révélé des performances très faibles dans
 la première approche et des performances correctes dans la deuxième, avec des variations importantes selon le type des questions-réponses.
 
