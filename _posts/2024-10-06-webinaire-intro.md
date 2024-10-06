@@ -30,9 +30,15 @@ Pour les deux premiers cycles de ce webinaire, nous avons cherché à présenter
 **Séances:**
 
 [Représentation en graphes pour la compréhension de l’évolution urbaine & Modélisation de l’évolution de territoires via un graphe spatio-temporel](https://gcgh-magis.github.io/webinaire-séance-1)
+
 [Identification automatique et analyse de relations spatio-temporelles dans des séries de données extraites d’annuaires du commerce parisien du XIXème siècle: application aux photographes](https://gcgh-magis.github.io/webinaire-séance-2)
+
 [Génération et propagation de méta-faits temporels dans les graphes de connaissances](https://gcgh-magis.github.io/webinaire-séance-3)
+
 [Représenter les unités territoriales à partir de graphes de connaissances dans le contexte historique d’OBARDI](https://gcgh-magis.github.io/webinaire-séance-4)
+
 [WikidataESR : les soft-data de l’ESR](https://gcgh-magis.github.io/webinaire-séance-5)
+
 [Création et exploration de graphes de connaissances décrivant des changements dans des divisions géographiques évolutives](https://gcgh-magis.github.io/webinaire-séance-6)
+
 
