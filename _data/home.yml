@@ -10,8 +10,8 @@ navbar_entries:
 
 project_entries:
   - title: Webinaire 
-    url: webinaire-séance-1
-    desc: 'Présentations et échanges autour de travaux relatifs à la création de graphes de connaissances géohistoriques.'
+    url: webinaire-intro
+    desc: 'Présentations et échanges autour de travaux relatifs aux graphes de connaissances géohistoriques.'
 
   - title: Journée d'étude AFIA-MADICS-MAGIS
     url: journée-intelligence-artificielle-et-humanités-numériques
