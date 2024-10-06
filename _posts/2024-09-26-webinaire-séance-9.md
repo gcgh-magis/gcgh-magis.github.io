@@ -5,7 +5,7 @@ author: Action de Recherche Graphes de connaissances géohistoriques
 
 **Date:** jeudi 21 novembre 2024, de 12h30 à 13h30. 
 
-Cette séance est consacrée la génération augmentée de récupération (Retrieval Augmented Generation, RAG) pour interroger des graphes de connaissances (géohistoriques).
+Cette séance est consacrée à la génération augmentée de récupération (Retrieval Augmented Generation, RAG) pour interroger des graphes de connaissances (géohistoriques).
 
 ## Programme:
 
