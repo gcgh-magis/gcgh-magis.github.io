@@ -29,10 +29,13 @@ Pour les deux premiers cycles de ce webinaire, nous avons cherché à présenter
 
 **Séances:**
 
+* Jeudi 20 octobre 2022, avec John Samuel (CPE Lyon, LIRIS) et Aurélie Leborgne (Université de Strasbourg, ICube): 
 [Représentation en graphes pour la compréhension de l’évolution urbaine & Modélisation de l’évolution de territoires via un graphe spatio-temporel](https://gcgh-magis.github.io/webinaire-séance-1)
 
+* Jeudi 17 novembre 2022, avec Solenn Tual (LASTIG, univ. Gustave Eiffel, IGN-ENSG): 
 [Identification automatique et analyse de relations spatio-temporelles dans des séries de données extraites d’annuaires du commerce parisien du XIXème siècle: application aux photographes](https://gcgh-magis.github.io/webinaire-séance-2)
 
+* Jeudi 9 février 2022, avec Fatiha Saïs (Laboratoire Interdisciplinaire pour les Sciences du Numérique, Université Paris Saclay): 
 [Génération et propagation de méta-faits temporels dans les graphes de connaissances](https://gcgh-magis.github.io/webinaire-séance-3)
 
 [Représenter les unités territoriales à partir de graphes de connaissances dans le contexte historique d’OBARDI](https://gcgh-magis.github.io/webinaire-séance-4)
