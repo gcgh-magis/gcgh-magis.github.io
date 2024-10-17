@@ -17,3 +17,7 @@ L’émergence des larges modèles de langage (LLM) a bouleversé la recherche d
 **Référence:** 
 
 Chartier, Mathieu Alexandre, Nabil Dakkoune, Guillaume Bourgeois, and Stéphane Jean. "Évaluation des capacités de réponse de larges modèles de langage (LLM) pour des questions d'historiens." In 24ème conférence francophone sur l'Extraction et la Gestion des Connaissances (EGC 2024), no. 40, pp. 155-166. 2024.
+
+**Ressources:** [https://github.com/lias-laboratory/experimentalhistorianllm](https://github.com/lias-laboratory/experimentalhistorianllm)
+
+**Revoir la présentation (jusqu'au 1er novembre 2024):** [https://filesender.renater.fr/?s=download&token=081ff820-cf46-4ce6-b168-fdba2f654757](https://filesender.renater.fr/?s=download&token=081ff820-cf46-4ce6-b168-fdba2f654757)
