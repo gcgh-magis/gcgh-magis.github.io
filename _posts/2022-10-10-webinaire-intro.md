@@ -38,10 +38,13 @@ Pour les deux premiers cycles de ce webinaire, nous avons cherché à présenter
 * Jeudi 9 février 2022, avec Fatiha Saïs (Laboratoire Interdisciplinaire pour les Sciences du Numérique, Université Paris Saclay): 
 [Génération et propagation de méta-faits temporels dans les graphes de connaissances](https://gcgh-magis.github.io/webinaire-séance-3)
 
+* Jeudi 5 ocotbre 2023, avec Nathalie Hernandez (Université de Toulouse - Jean Jaurès, laboratoire IRIT, équipe Melodi): 
 [Représenter les unités territoriales à partir de graphes de connaissances dans le contexte historique d’OBARDI](https://gcgh-magis.github.io/webinaire-séance-4)
 
+* Jeudi 2 novembre 2023, avec Julien Gossa (Université de Strasbourg, laboratoires SAGE et ICube):
 [WikidataESR : les soft-data de l’ESR](https://gcgh-magis.github.io/webinaire-séance-5)
 
+* Jeudi 7 décembre 2023, avec Camille Bernard (Univ. Grenoble Alpes, Laboratoire d'Informatique de Grenoble, équipe STeamer): 
 [Création et exploration de graphes de connaissances décrivant des changements dans des divisions géographiques évolutives](https://gcgh-magis.github.io/webinaire-séance-6)
 
 
