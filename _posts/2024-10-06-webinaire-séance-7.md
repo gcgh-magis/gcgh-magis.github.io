@@ -20,4 +20,4 @@ Chartier, Mathieu Alexandre, Nabil Dakkoune, Guillaume Bourgeois, and Stéphane 
 
 **Ressources:** [https://github.com/lias-laboratory/experimentalhistorianllm](https://github.com/lias-laboratory/experimentalhistorianllm)
 
-**Revoir la présentation (jusqu'au 1er novembre 2024):** [https://filesender.renater.fr/?s=download&token=081ff820-cf46-4ce6-b168-fdba2f654757](https://filesender.renater.fr/?s=download&token=081ff820-cf46-4ce6-b168-fdba2f654757)
+**Revoir la présentation (jusqu'au 30 novembre 2024):** [https://filesender.renater.fr/?s=download&token=5c459450-2d81-47a2-8c05-8fa630bbc7fd](https://filesender.renater.fr/?s=download&token=5c459450-2d81-47a2-8c05-8fa630bbc7fd)
