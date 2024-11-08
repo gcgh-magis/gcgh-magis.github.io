@@ -16,6 +16,8 @@ Nous présentons les résultats d’une étude approfondie des performances des 
 La méthodologie de l’expérimentation a été structurée en deux approches distinctes : la génération de requêtes SPARQL et l’interrogation directe. Les résultats sur le benchmark QALD-10 ont révélé des performances très faibles dans
 la première approche et des performances correctes dans la deuxième, avec des variations importantes selon le type des questions-réponses.
 
-**Référence:** 
+**Références :** 
 
-Alexandra Épiphanie Padonou, Peggy Cellier, Sébastien Ferré. Étude de l’utilisation des modèles de langages pour l’interrogation en langue naturelle des graphes de connaissances. EGC 2024 - 24ème conférence francophone sur l’Extraction et la Gestion des Connaissances, Jan 2024, Dijon, France. pp.1-8. ffhal-04602983f
+Alexandra Épiphanie Padonou, Peggy Cellier, Sébastien Ferré. Étude de l’utilisation des modèles de langages pour l’interrogation en langue naturelle des graphes de connaissances. EGC 2024 - 24ème conférence francophone sur l’Extraction et la Gestion des Connaissances, Jan 2024, Dijon, France. pp.1-8. 
+
+Lehmann, J., Gattogi, P., Bhandiwad, D., Ferré, S. and Vahdati, S., 2023. Language models as controlled natural language semantic parsers for knowledge graph question answering. In ECAI 2023 (pp. 1348-1356). IOS Press.
