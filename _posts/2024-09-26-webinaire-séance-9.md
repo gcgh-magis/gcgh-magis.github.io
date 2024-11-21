@@ -20,5 +20,5 @@ Marion Schaeffer, Christophe Bouvard, Jean-Philippe Kotowicz, and Cecilia ZanniM
  
 Christophe Bouvard, Mathieu Ciancone, Antoine Gourru, Marion Schaeffer. Derby LLM : Évaluation comparative des approches RAG et fine-tuning. 10 ème Conférence Nationale sur les Applications Pratiques de l’Intelligence Artificielle, AFIA-Association Française pour l'Intelligence Artificielle, Jul 2024, La Rochelle, France. pp.38-47. ⟨hal-04638460⟩
 
-**Revoir la présentation (jusqu'au 6 décembre) :** [https://filesender.renater.fr/?s=download&token=d33e03c4-2560-4c08-85de-508c8ada5f5a](https://filesender.renater.fr/?s=download&token=d33e03c4-2560-4c08-85de-508c8ada5f5a)
+**Revoir la présentation (jusqu'au 6 décembre 2024) :** [https://filesender.renater.fr/?s=download&token=d33e03c4-2560-4c08-85de-508c8ada5f5a](https://filesender.renater.fr/?s=download&token=d33e03c4-2560-4c08-85de-508c8ada5f5a)
 
